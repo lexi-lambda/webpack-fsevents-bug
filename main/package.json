@@ -1,0 +1,10 @@
+{
+  "name": "main",
+  "version": "0.0.0",
+  "scripts": {
+    "watch": "webpack --progress --watch"
+  },
+  "dependencies": {
+    "webpack": "^1.13.0"
+  }
+}
